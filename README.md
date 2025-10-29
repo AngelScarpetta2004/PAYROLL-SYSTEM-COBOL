@@ -67,7 +67,8 @@ Este proyecto es un sistema de nómina sencillo escrito en COBOL que permite cal
   
   Este proyecto está bajo la licencia MIT. Puedes utilizarlo, modificarlo y adaptarlo libremente, dando crédito al autor original.
   
-   # Autor: Ángel Daniel Scarpetta Ruiz
-   # angelbackend.dev24@gmail.com
+   ### Autor: Ángel Daniel Scarpetta Ruiz
+   ### angelbackend.dev24@gmail.com
   
-  # Repository: https://github.com/AngelScarpetta2004/PAYROLL-SYSTEM-COBOL
+  ### Repository: https://github.com/AngelScarpetta2004/PAYROLL-SYSTEM-COBOL
+
